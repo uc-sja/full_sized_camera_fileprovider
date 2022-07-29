@@ -1,4 +1,5 @@
-# full_sized_camera_fileprovider
+# Capturing full sized images using fileprovider
+
 This is a demo project to explain the use case capturing full sized camera photos and not just the thumnail.
 
 We will create and store a file on the device and then pass it’s URI to the default camera application via intent.
