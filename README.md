@@ -18,7 +18,7 @@ This is example of android project architecture.
 
 [Project name - Fileprovider camera sample
 Package name - com.example.fileprovidercamerasample
-Package Init - Module][#project-setup]
+Package Init - Module](#project-setup)
 
 
 Dependency
