@@ -18,12 +18,6 @@ This is example of android project architecture.
  * [Naming Convention](#naming-convention)
  * [Project Module](#project-module)
  * [Project Architecture](#project-architecture)
-   *  [Android SDK](#android-sdk)
-   *  [Network API](network-api)
-   *  [Project Module](project-module)
-
- * [License](#license)
-
 
 
 
@@ -45,7 +39,7 @@ This is example of android project architecture.
 ## Naming Convention
  * activity - MainActivity.kt, activity_main.xml
 
-##Project Architecture
+## Project Architecture
 
  * minSdk 21
  * targetSdk 32
@@ -53,4 +47,5 @@ This is example of android project architecture.
  * gradle 7.3.3
  * kotlin 1.7.0
  
-
+     
+    
