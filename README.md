@@ -27,7 +27,7 @@ This is example of android project architecture.
 
 
 
-# Project Setup
+## Project Setup
  * Project name - Fileprovider camera sample
  * Package name - com.example.fileprovidercamerasample
  * Package Init - Module
@@ -35,4 +35,22 @@ This is example of android project architecture.
   *  AndroidX Core
   *  Kotlin-Stdlib
   *  Material-Design
+
+## Package Setup - Layer
+
+ * Activity: MainActivity.kt
+ * XML: activity_main.xml
+
+
+## Naming Convention
+ * activity - MainActivity.kt, activity_main.xml
+
+##Project Architecture
+
+ * minSdk 21
+ * targetSdk 32
+ * compileSdk 32
+ * gradle 7.3.3
+ * kotlin 1.7.0
+ 
 
