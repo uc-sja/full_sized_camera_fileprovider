@@ -13,12 +13,12 @@ Now after clicking a picture, the camera app will then process the file internal
 This is example of android project architecture.
 
 
-[Project Setup](#project-setup)
-[Package Module](#package-module)
-[Naming Convention](#naming-convention)
-[Project Module](#project-module)
-[Project Architecture](#project-architecture)
-[License](#license)
+ * [Project Setup](#project-setup)
+ * [Package Module](#package-module)
+ * [Naming Convention](#naming-convention)
+ * [Project Module](#project-module)
+ * [Project Architecture](#project-architecture)
+ * [License](#license)
 
 
 
