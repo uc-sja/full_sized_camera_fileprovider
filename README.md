@@ -12,14 +12,27 @@ Now after clicking a picture, the camera app will then process the file internal
 ## Android Project Architecture
 This is example of android project architecture.
 
-# Project Setup
+
+#Project Setup(project-setup)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #project-setup
-
-[Project name - Fileprovider camera sample
+# Project Setup
+Project name - Fileprovider camera sample
 Package name - com.example.fileprovidercamerasample
-Package Init - Module](#project-setup)
-
+Package Init - Module
 
 Dependency
 AndroidX Core
