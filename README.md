@@ -18,6 +18,11 @@ This is example of android project architecture.
  * [Naming Convention](#naming-convention)
  * [Project Module](#project-module)
  * [Project Architecture](#project-architecture)
+ 
+   *  Android SDK
+   *  Network API
+   *  Project Module
+
  * [License](#license)
 
 
