@@ -14,7 +14,7 @@ This is example of android project architecture.
 
 
  * [Project Setup](#project-setup)
- * [Package Module](#package-module)
+ * [Package Module](#package-setup)
  * [Naming Convention](#naming-convention)
  * [Project Module](#project-module)
  * [Project Architecture](#project-architecture)
@@ -36,7 +36,7 @@ This is example of android project architecture.
   *  Kotlin-Stdlib
   *  Material-Design
 
-## Package Setup - Layer
+## Package Setup
 
  * Activity: MainActivity.kt
  * XML: activity_main.xml
