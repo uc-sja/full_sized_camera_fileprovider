@@ -19,9 +19,9 @@ This is example of android project architecture.
  * [Project Module](#project-module)
  * [Project Architecture](#project-architecture)
  
-   *  Android SDK
-   *  Network API
-   *  Project Module
+   *  [Android SDK](#android-sdk)
+   *  [Network API](network-api)
+   *  [Project Module](project-module)
 
  * [License](#license)
 
