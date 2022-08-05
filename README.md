@@ -16,7 +16,6 @@ This is example of android project architecture.
  * [Project Setup](#project-setup)
  * [Package Module](#package-setup)
  * [Naming Convention](#naming-convention)
- * [Project Module](#project-module)
  * [Project Architecture](#project-architecture)
 
 
