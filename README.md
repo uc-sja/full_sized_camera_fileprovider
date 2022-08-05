@@ -9,7 +9,7 @@ Now after clicking a picture, the camera app will then process the file internal
 ![](https://github.com/uc-sja/full_sized_camera_fileprovider/blob/master/app/src/main/res/drawable/ezgif.com-gif-maker.gif)
 
 
-Android Project Architecture
+## Android Project Architecture
 This is example of android project architecture.
 
 Project Setup
