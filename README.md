@@ -12,7 +12,7 @@ Now after clicking a picture, the camera app will then process the file internal
 ## Android Project Architecture
 This is example of android project architecture.
 
-#Project Setup
+# Project Setup
 
 #project-setup
 
