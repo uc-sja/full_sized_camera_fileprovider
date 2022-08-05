@@ -31,8 +31,8 @@ This is example of android project architecture.
  * Project name - Fileprovider camera sample
  * Package name - com.example.fileprovidercamerasample
  * Package Init - Module
-
-Dependency
-AndroidX Core
-Kotlin-Stdlib
+ * Dependency
+  *  AndroidX Core
+  *  Kotlin-Stdlib
+  *  Material-Design
 
